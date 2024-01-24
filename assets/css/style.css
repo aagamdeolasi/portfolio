@@ -766,7 +766,7 @@ header .navbar ul li a:hover {
   margin-right: 2rem;
 }
 .work .desc .btns .btn:hover {
-  background: #310ae0f5;
+  background: #7303a7;
 }
 .work .viewall {
   display: flex;
@@ -813,7 +813,7 @@ header .navbar ul li a:hover {
   content: "";
   position: absolute;
   width: 6px;
-  background: #020133;
+  background: #7303a7;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -841,7 +841,7 @@ header .navbar ul li a:hover {
   font-size: 1.89rem;
   text-align: center;
   font-weight: 600;
-  color: #02094b;
+  color: #7303a7;
   font-family: "Font Awesome\ 5 Free";
 }
 .experience .left {
@@ -912,8 +912,8 @@ header .navbar ul li a:hover {
   border-radius: 0.5em;
   transition: 0.5s;
   color: #fff;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  background: #7303a7;
+  box-shadow: 0px 5px 10px rgba(115, 3, 167, 0.6);
   text-align: center;
 }
 .morebtn .btn span {
@@ -927,7 +927,7 @@ header .navbar ul li a:hover {
   transition: 0.3s;
 }
 .morebtn .btn:hover {
-  background: #1a047e;
+  background: #4a00e0;
 }
 .morebtn .btn:hover i {
   transform: translateX(5px);
@@ -1085,13 +1085,13 @@ form .button-area {
   cursor: pointer;
   border-radius: 5px;
   padding: 13px 25px;
-  background: #2506ad;
-  box-shadow: 0px 5px 10px rgba(48, 68, 247, 0.6);
+  background: #7303a7;
+  box-shadow: 0px 5px 10px rgba(115, 3, 167, 0.6);
   transition: 0.3s ease;
   font-family: "Nunito", sans-serif;
 }
 .button-area button:hover {
-  background: #421cecf5;
+  background: #4a00e0;
 }
 .button-area span {
   font-size: 17px;
@@ -1135,7 +1135,7 @@ form .button-area {
 .footer {
   min-height: auto;
   padding-top: 0;
-  background: rgb(0, 1, 43);
+  background: rgb(83, 40, 213);
 }
 .footer .box-container {
   display: flex;
