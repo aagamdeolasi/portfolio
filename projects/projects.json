@@ -2,7 +2,7 @@
   {
     "name": "EduMatrix: Unveiling the Artistry of Udemy's Learning Realm",
     "desc": "A Power BI dashboard analyzing Udemy course data from 2011 to 2017, emphasizing key market trends.",
-    "image": "edumatrix",
+    "image": "edumatrixdash",
     "category": "powerbi",
     "links": {
       "view": "https://app.powerbi.com/view?r=eyJrIjoiYjA4NjIzMmUtY2RiNS00MmUyLWIyZTItYTgxMzgzMDk0MzE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
