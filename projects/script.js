@@ -20,11 +20,11 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
+            document.title = "PROJECTS | AAGAM DEOLASI PORTFOLIO";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
+            document.title = "Thank You! for Visiting Portfolio";
             $("#favicon").attr("href", "/assets/images/favhand.png");
         }
     });
