@@ -65,11 +65,11 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Jigar Sable";
-        $("#favicon").attr("href","/assets/images/favicon.png");
+        document.title = "EXPERIENCE | AAGAM DEOLASI PORTFOLIO";
+        $("#favicon").attr("href","../assets/images/favicon.png");
     }
     else {
-        document.title = "Come Back To Portfolio";
-        $("#favicon").attr("href","/assets/images/favhand.png");
+        document.title = "Thank You! for Visiting Portfolio";
+        $("#favicon").attr("href","../assets/images/favhand.png");
     }
 });
