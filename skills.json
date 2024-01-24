@@ -1,11 +1,12 @@
 [
     {
         "name": "Power BI",
-        "icon": "https://icons8.com/icon/Ny0t2MYrJ70p/power-bi-2021"
+        "icon": "https://img.icons8.com/color/48/power-bi-2021.png"
+
     },
     {
         "name": "Microsoft Excel",
-        "icon": "https://icons8.com/icon/117561/microsoft-excel-2019"
+        "icon": "https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
     },
     {
         "name": "Bootstrap",
