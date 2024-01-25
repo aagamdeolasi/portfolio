@@ -3,7 +3,7 @@
     "name": "EduMatrix: Unveiling the Artistry of Udemy's Learning Realm",
     "desc": "A Power BI dashboard analyzing Udemy course data from 2011 to 2017, emphasizing key market trends.",
     "image": "edumatrixdash",
-    "category": ["powerbi", "excel"],
+    "category": "powerbi",
     "links": {
       "view": "https://app.powerbi.com/view?r=eyJrIjoiYjA4NjIzMmUtY2RiNS00MmUyLWIyZTItYTgxMzgzMDk0MzE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
       "code": "https://github.com/aagamdeolasi/Udemy-Dashboard-Jan-2024.git"
@@ -14,7 +14,7 @@
     "name": "CHRISTMAS RETAIL SALES INSIGHTS",
     "desc": "Analysis of Market trends and Sales during the Christmas and other special events over the years from 2018 till 2023. The Dashboard is build using Excel and Power BI.",
     "image": "christmasdash",
-    "category": ["powerbi", "excel"],
+    "category": "powerbi",
     "links": {
       "view": "https://app.powerbi.com/view?r=eyJrIjoiMTlkMjg3NzktYTRhYy00M2IxLTk0OGEtNjg1ZjEwZTgyNDJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
       "code": "https://github.com/aagamdeolasi/christmas_sales_insights.git"
